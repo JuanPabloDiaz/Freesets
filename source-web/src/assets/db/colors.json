@@ -9,11 +9,11 @@
 	},
 	{
 		"id": 2,
-		"order": 95,
-		"name": "AI Colors",
-		"img": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/ai-colors",
-		"link": "https://tintmint.net",
-		"tags": ["AI", "Preview"]
+		"order": 94,
+		"name": "Huemint",
+		"link": "https://huemint.com/",
+		"img": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/huemint",
+		"tags": ["Preview", "Palette"]
 	},
 	{
 		"id": 3,
@@ -303,13 +303,5 @@
 		"tags": ["Generator", "Preview"],
 		"license": "Apache V2.0",
 		"licenseLink": "https://github.com/material-foundation/material-theme-builder/blob/main/LICENSE"
-	},
-	{
-		"id": 41,
-		"order": 94,
-		"name": "Huemint",
-		"link": "https://huemint.com/",
-		"img": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/huemint",
-		"tags": ["Preview", "Palette"]
 	}
 ]
